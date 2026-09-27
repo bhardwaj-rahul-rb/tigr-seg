@@ -109,7 +109,7 @@ The learned model weights are available below:
 - [X] Release model weights
 
 ## Acknowledgement
-The work is inspired from [LViT](https://github.com/HUANGLIZI/LViT) and [Ariadne’s Thread](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023). Thanks for the open source contributions!
+<!-- The work is inspired from [LViT](https://github.com/HUANGLIZI/LViT) and [Ariadne’s Thread](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023). Thanks for the open source contributions! -->
 
 ## Citation
 If you find this work useful, please cite our paper:
