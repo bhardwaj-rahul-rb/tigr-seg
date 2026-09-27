@@ -214,7 +214,7 @@ class TIGRDecoderStage(nn.Module):
         text_embedding,
         previous_prior=None,
     ):
-        # Multi-scale feature fusion (Eqs. 13-14)
+        # Multi-scale feature fusion.
         decoder_up = F.interpolate(
             decoder_feature,
             size=skip_feature.shape[-2:],
